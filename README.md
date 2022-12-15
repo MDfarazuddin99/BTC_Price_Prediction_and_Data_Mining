@@ -18,15 +18,15 @@ Kaggele Dataset : https://www.kaggle.com/datasets/team-ai/bitcoin-price-predicti
 Colab notebook for Prerna Garsole  Contribution : https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/Prerna_Garsole_255FinalProject.ipynb
 
 
-Colab notebook for Farazuddin Mohammad Contribution :https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/BTC_LSTM.ipynb
+Colab notebook for Farazuddin Mohammad Contribution :https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/BTC_EDA_RF_GB_KNN_SHAP.ipynb
 
-Colab notebook for Pranav Chandra Kallepalli Contribution : 
+Colab notebook for Pranav Chandra Kallepalli Contribution : https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/BTC_LSTM.ipynb
 
 **Presentation :** https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/Group18-BitcoinPricePrediction.pptx
 
-**Video Demo :**
+**Video Demo :** https://drive.google.com/drive/u/0/folders/1sySUYi9nMuiqQ5zJrf2FuZqIJcJZsiaa
 
-**Project Report :**
+**Project Report :** https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/CMPE_255_Final_Project_Report.pdf
 
 # Contributions 
 
