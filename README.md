@@ -15,6 +15,7 @@ Kaggele Dataset : https://www.kaggle.com/datasets/team-ai/bitcoin-price-predicti
 
 Colab notebook for Prerna Garsole  Contribution : https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/Prerna_Garsole_255FinalProject.ipynb
 
+
 Colab notebook for Farazuddin Mohammad Contribution :https://github.com/MDfarazuddin99/BTC_Price_Prediction_and_Data_Mining/blob/main/BTC_LSTM.ipynb
 
 Colab notebook for Pranav Chandra Kallepalli Contribution : 
@@ -23,9 +24,17 @@ Colab notebook for Pranav Chandra Kallepalli Contribution :
 
 **Video Demo :**
 
-**Project Report : **
+**Project Report :**
 
 # Contributions 
+
+<img width="624" alt="Screen Shot 2022-12-14 at 5 33 20 PM" src="https://user-images.githubusercontent.com/99928364/207751621-709b1270-34b1-4c73-a05b-d34a316e6bcd.png">
+
+<img width="617" alt="Screen Shot 2022-12-14 at 5 31 09 PM" src="https://user-images.githubusercontent.com/99928364/207751346-52b3e72a-199b-44cd-982c-3cea501c8fc7.png">
+
+<img width="617" alt="Screen Shot 2022-12-14 at 5 32 11 PM" src="https://user-images.githubusercontent.com/99928364/207751485-d522bbea-49df-43c4-b3d8-e280470da497.png">
+
+
 
 # Introduction 
 
