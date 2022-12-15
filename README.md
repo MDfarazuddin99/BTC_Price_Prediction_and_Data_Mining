@@ -86,8 +86,24 @@ Market Cap: market capitalization, the total value of all shares of a company(Fe
 
 5. LSTM(Long Short Term Memory)
 
+# LSTM Model Architecture 
+
+<img width="1015" alt="Screen Shot 2022-12-14 at 5 38 18 PM" src="https://user-images.githubusercontent.com/99928364/207752191-4a660f3f-b20b-464a-851a-3009fa6012cd.png">
+
+
 # Model Implementation
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/99928364/207747757-0702800c-acda-4186-9146-b534e0d2687f.png">
+
+
+# Statistical Models Comparison
+
+<img width="1015" alt="Screen Shot 2022-12-14 at 5 37 00 PM" src="https://user-images.githubusercontent.com/99928364/207752044-f6a1c9b7-b891-4238-b315-bfe97c59bcce.png">
+
+# Stock Price of BTC for this year start
+
+<img width="1046" alt="Screen Shot 2022-12-14 at 5 42 47 PM" src="https://user-images.githubusercontent.com/99928364/207752744-cf84ce49-ed11-4f3a-a221-307d65d74e81.png">
+
+
 
 
 # Steps to run
